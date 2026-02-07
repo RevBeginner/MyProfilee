@@ -15,4 +15,10 @@ Currently working on Research
 ---
 [![](https://visitcount.itsvg.in/api?id=RevBeginner&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316kie4ex56gtepy5r24djvvk6zm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316kie4ex56gtepy5r24djvvk6zm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true">
+  </a>
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
